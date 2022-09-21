@@ -21,7 +21,7 @@ export function NavigationBar() {
                 href="https://longform.watchdog.team"
                 className="text-off-blue hover:text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800 flex items-center"
               >
-                <span>Visit our Longform</span>
+                <span className="text-lg">Visit our Longform</span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"

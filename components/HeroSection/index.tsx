@@ -22,7 +22,7 @@ export function HeroSection() {
             </div>
             <h1 className="my-4 text-4xl font-bold leading-relaxed text-center md:text-6xl font-lora">
               <span className="text-white">NaN</span> people have been affected
-              by state violence in Sri Lanka
+              by state harrasment in Sri Lanka
             </h1>
             <div className="flex justify-center my-6 text-lg md:text-xl">
               between
@@ -42,7 +42,7 @@ export function HeroSection() {
             <div className="flex items-center hover:text-white">
               <Link
                 target={"_blank"}
-                href="https://docs.google.com/spreadsheets/d/1rJWVn6IHITC21meLQviD5znrzZHlCjSqaG_97x5yGx4/edit#gid=0"
+                href="https://docs.google.com/spreadsheets/d/1hivULJmq3GPUey1Sp87KHhXOK6DtHQIUkfFCTZp7GmA/edit?usp=sharing"
               >
                 View the data
               </Link>
